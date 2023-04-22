@@ -1,2 +1,2 @@
-# supervised using LinearRegression , Ridge ,Lasso , GridSearchCV
+# project using LinearRegression , Ridge ,Lasso , GridSearchCV
 supervised_machine_learning
