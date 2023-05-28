@@ -4,4 +4,4 @@ Part 1 : EDA
 
 Part 2 : train a linear regression model (baseline)
 
-Part 3 : avoid overfitting by training a regularized regression model LASSO-RIDGE GRID search nd cross val, ada boost , xgb boost , random forest , decison tree
+Part 3 : avoid overfitting by training a regularized regression model LASSO-RIDGE GRID search nd cross val , xgb boost , random forest regressor 
